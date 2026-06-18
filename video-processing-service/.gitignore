@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+src/**/*.js
+src/**/*.js.map
+.env
+.env.*
+!.env.example
+raw_videos/
+processed_videos/
