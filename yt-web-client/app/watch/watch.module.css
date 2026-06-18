@@ -1,0 +1,10 @@
+.container {
+  padding: 24px;
+}
+
+.video {
+  aspect-ratio: 16 / 9;
+  background: #000;
+  max-width: 100%;
+  width: 960px;
+}
